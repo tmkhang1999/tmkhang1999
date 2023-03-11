@@ -51,9 +51,9 @@
 
 * **Data Science**
   
-  > I. Data Analytics and Data Visualization.
+  > Data Analytics and Data Visualization
 
-  > II. ETL, NLP and ML pipelines.
+  > ETL, NLP and ML pipelines
 
 <!--
 **tmkhang1999/tmkhang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
