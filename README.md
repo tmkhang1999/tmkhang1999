@@ -5,7 +5,9 @@ I'm **Minh Khang Tran**, a **Computer Vision Researcher & Applied LLM Engineer**
 
 ### 🧠 About Me
 
-I'm currently pursuing an **Erasmus Mundus MSc in Computational Colour and Spectral Imaging (COSI)** — studying across **Norway 🇳🇴, France 🇫🇷, Finland 🇫🇮, and the Netherlands 🇳🇱**, where I'm completing my master's thesis.  
+I'm currently pursuing an **Erasmus Mundus MSc in Computational Colour and Spectral Imaging (COSI)**
+studying across **Norway 🇳🇴, France 🇫🇷, Finland 🇫🇮, and the Netherlands 🇳🇱**, where I'm completing my master's thesis. 
+
 I hold a **BSc in Computer Science** from **SUNY Oswego (USA 🇺🇸)** with *Summa Cum Laude* distinction.
 
 My work sits at the intersection of:
