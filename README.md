@@ -1,71 +1,51 @@
-### Hi there 👋
+### Hi there 👋  
+I'm **Minh Khang Tran**, a **Computer Vision Researcher & Applied LLM Engineer** passionate about bridging **AI research** and **real-world engineering**.
 
 ---
-### :gear: Tech Stack
 
-* **Languages**
+### 🧠 About Me
 
-  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=Go)
-  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-  ![Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat&logo=Prolog)
-  ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
+I'm currently pursuing an **Erasmus Mundus MSc in Computational Colour and Spectral Imaging (COSI)** — studying across **Norway 🇳🇴, France 🇫🇷, Finland 🇫🇮, and the Netherlands 🇳🇱**, where I'm completing my master's thesis.  
+I hold a **BSc in Computer Science** from **SUNY Oswego (USA 🇺🇸)** with *Summa Cum Laude* distinction.
 
-* **Frameworks**
+My work sits at the intersection of:
+- 🧩 **Computer Vision Research** — image compression, quality assessment, segmentation, and 3D reconstruction.  
+- 🤖 **Applied LLM Engineering** — developing multi-agent systems, RAG pipelines, and AI-powered assistants with **LangGraph**, **LangChain**, and **FastAPI**.  
+- 🚀 I love exploring the balance between *theory* (research) and *practice* (production systems).
 
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=25A162)
-  ![RASA](https://img.shields.io/badge/-RASA-000000?style=flat&logo=RASA&logoColor=blue)
+---
 
-* **Tools**
+### ⚙️ Tech Stack
 
-  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Docker&logoColor=F05032)
-  ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
-  ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=D24939)
-  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman&logoColor=FF6C37)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
+**Languages**
 
-* **Databases**
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=matlab)
 
-  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=MariaDB&logoColor=994d00)
-  ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=SQLite&logoColor=003B57)
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000000?style=flat&logo=Amazon%20DynamoDB&logoColor=0033cc)
-  
-* **Front-End**
+**Frameworks & Libraries**
 
-  ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML)
-  ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
-  ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi)
 
-* **Machine Learning**
+**Tools & Platforms**
 
-  > *Classification*: Naive Bayes | Decision Tree | SVM | KNN | Logistic and Softmax Regression
-  
-  > *Clustering*: K-Means | Hierarchical | Density-based
-  
-  > *Regression*: Linear and Polynomial Regression
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![Triton](https://img.shields.io/badge/-Triton_Server-000000?style=flat)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
-  > *Deep Learning*: MLP | CNN | R-CNN | Fast R-CNN | Faster R-CNN
+**Databases**
 
-* **Data Science**
-  
-  > Data Analytics and Data Visualization
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
-  > ETL, NLP and ML pipelines
+---
 
-<!--
-**tmkhang1999/tmkhang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *“I believe great AI systems are born where research curiosity meets engineering precision.”*  
